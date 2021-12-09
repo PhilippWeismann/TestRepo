@@ -14,6 +14,8 @@ namespace HelloGit
 
             Console.Write("Hello World");
 
+            myperson.ToString();
+
         }
     }
 }
