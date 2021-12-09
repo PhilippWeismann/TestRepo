@@ -10,7 +10,12 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
+            Person myperson = new Person();
+
             Console.Write("Hello AT");
+
+            myperson.ToString();
+
         }
     }
 }
